@@ -1,2 +1,3 @@
 # lumira-extension-da-rethinkdb
-Lumira Data Access Extension for RethinkDB
+Lumira Data Access Extension for Rethinkdb
+
